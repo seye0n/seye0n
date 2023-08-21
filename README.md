@@ -9,4 +9,5 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/><br/><br/>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seye0n&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seye0n&layout=compact)](https://github.com/seye0n/github-readme-stats)
 </div>
