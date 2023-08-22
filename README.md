@@ -4,7 +4,7 @@
   <strong>😘  Welcome!! 세연's GitHub  😋</strong><br/><br/>
 
 <strong>🎵 My Playground 🎵</strong><br/>
-  <a href="https://www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=d6aedd"/></a>
+  <a href="https://www.instagram.com/3.02__sy/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=d6aedd"/></a>
   <a href="https://www.notion.so/dd00952c4ed647e58b93e4f6ee49eb9e?v=5763f9f1645b4ffe81bf97f1d9c912e8" target="_blank">
   <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
   <a href="https://blog.naver.com/cresent_32" target="_blank">
