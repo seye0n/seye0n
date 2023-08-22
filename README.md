@@ -22,7 +22,7 @@
   <strong>✅ Commit ✅</strong><br/>
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seye0n&theme=react-dark&bg_color=ffff1&point=d3d3d3)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/><br/>
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seye0n&theme=tokyonight)](https://git.io/streak-stats)
-  <img src="https://github-readme-stats.vercel.app/api?username=seye0n&theme=tokyonight&show_icons=true" width="48%" /><br/><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=seye0n&theme=tokyonight&show_icons=true" width="45%" /><br/><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seye0n&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" /><br/>
   
 </div>
