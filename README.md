@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=html5&logoColor=white"/>
   <br/><br/><br/>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seye0n&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seye0n&layout=compact)](https://github.com/seye0n/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=seye0n&theme=tokyonight&show_icons=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seye0n&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" /><br/><br/><br/>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seye0n&theme=react-dark&bg_color=ffff1&point=d3d3d3)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
